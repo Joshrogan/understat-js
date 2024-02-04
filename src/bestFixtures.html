@@ -10,12 +10,26 @@
     <canvas id="myChart" width="400" height="200"></canvas>
 
     <script type="module">
-      import matches from "../results/combine.json" assert { type: "json" };
+      import data from "../results/combine.json" assert { type: "json" };
 
+      const matches = data.filter((item) => {
+        const matchDate = new Date(item.datetime);
+        const feb5th = new Date("2024-02-06T00:00:00");
+        const feb17th = new Date("2024-02-17T00:00:00");
+
+        return matchDate > feb5th && matchDate < feb17th;
+      });
       // Extract labels (titles) and data points (avgLast6Xpts)
-      const labels = matches.map(
-        (match) => `${match.h.title} vs ${match.a.title}`
-      );
+      const labels = matches.map((match) => {
+        const homeTeam = match.h.title;
+        const awayTeam = match.a.title;
+
+        if (match.h.avgLast6Xpts > match.a.avgLast6Xpts) {
+          return `${homeTeam} TO BEAT ${awayTeam}`;
+        } else {
+          return `${awayTeam} TO BEAT ${homeTeam}`;
+        }
+      });
       const absoluteDifferences = matches.map(
         (match) => match.absoluteDifference
       );
