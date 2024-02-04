@@ -18,5 +18,9 @@
     "tsup": "^6.7.0",
     "typescript": "^5.3.3",
     "vitest": "^1.2.1"
+  },
+  "dependencies": {
+    "cheerio": "1.0.0-rc.12",
+    "node-fetch": "^3.3.2"
   }
 }
