@@ -1,12 +1,12 @@
 import { load } from "cheerio";
 import * as fs from "fs";
 
-interface HistoryEntry {
+export interface HistoryEntry {
   xpts: number;
   // Add other properties if necessary
 }
 
-interface TeamData {
+export interface TeamData {
   id: string;
   title: string;
   avgLast6Xpts?: number;

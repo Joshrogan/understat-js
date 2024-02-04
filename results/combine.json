@@ -1,0 +1,563 @@
+[
+  {
+    "id": "22128",
+    "h": {
+      "id": "87",
+      "title": "Liverpool",
+      "short_title": "LIV",
+      "avgLast6Xpts": 2.2584666666666666
+    },
+    "a": {
+      "id": "92",
+      "title": "Burnley",
+      "short_title": "BUR",
+      "avgLast6Xpts": 0.9633833333333334
+    },
+    "datetime": "2024-02-10 15:00:00",
+    "absoluteDifference": 1.2950833333333334
+  },
+  {
+    "id": "22136",
+    "h": {
+      "id": "92",
+      "title": "Burnley",
+      "short_title": "BUR",
+      "avgLast6Xpts": 0.9633833333333334
+    },
+    "a": {
+      "id": "83",
+      "title": "Arsenal",
+      "short_title": "ARS",
+      "avgLast6Xpts": 2.06175
+    },
+    "datetime": "2024-02-17 15:00:00",
+    "absoluteDifference": 1.0983666666666667
+  },
+  {
+    "id": "22135",
+    "h": {
+      "id": "244",
+      "title": "Brentford",
+      "short_title": "BRE",
+      "avgLast6Xpts": 1.1992666666666667
+    },
+    "a": {
+      "id": "87",
+      "title": "Liverpool",
+      "short_title": "LIV",
+      "avgLast6Xpts": 2.2584666666666666
+    },
+    "datetime": "2024-02-17 12:30:00",
+    "absoluteDifference": 1.0592
+  },
+  {
+    "id": "22117",
+    "h": {
+      "id": "244",
+      "title": "Brentford",
+      "short_title": "BRE",
+      "avgLast6Xpts": 1.1992666666666667
+    },
+    "a": {
+      "id": "88",
+      "title": "Manchester City",
+      "short_title": "MCI",
+      "avgLast6Xpts": 2.2127833333333338
+    },
+    "datetime": "2024-02-05 20:00:00",
+    "absoluteDifference": 1.013516666666667
+  },
+  {
+    "id": "22146",
+    "h": {
+      "id": "83",
+      "title": "Arsenal",
+      "short_title": "ARS",
+      "avgLast6Xpts": 2.06175
+    },
+    "a": {
+      "id": "86",
+      "title": "Newcastle United",
+      "short_title": "NEW",
+      "avgLast6Xpts": 1.0723333333333331
+    },
+    "datetime": "2024-02-24 20:00:00",
+    "absoluteDifference": 0.9894166666666668
+  },
+  {
+    "id": "22130",
+    "h": {
+      "id": "88",
+      "title": "Manchester City",
+      "short_title": "MCI",
+      "avgLast6Xpts": 2.2127833333333338
+    },
+    "a": {
+      "id": "72",
+      "title": "Everton",
+      "short_title": "EVE",
+      "avgLast6Xpts": 1.3399
+    },
+    "datetime": "2024-02-10 12:30:00",
+    "absoluteDifference": 0.8728833333333337
+  },
+  {
+    "id": "22133",
+    "h": {
+      "id": "81",
+      "title": "West Ham",
+      "short_title": "WHU",
+      "avgLast6Xpts": 1.3071000000000002
+    },
+    "a": {
+      "id": "83",
+      "title": "Arsenal",
+      "short_title": "ARS",
+      "avgLast6Xpts": 2.06175
+    },
+    "datetime": "2024-02-11 14:00:00",
+    "absoluteDifference": 0.7546499999999998
+  },
+  {
+    "id": "22126",
+    "h": {
+      "id": "78",
+      "title": "Crystal Palace",
+      "short_title": "CRY",
+      "avgLast6Xpts": 0.9167333333333333
+    },
+    "a": {
+      "id": "80",
+      "title": "Chelsea",
+      "short_title": "CHE",
+      "avgLast6Xpts": 1.6559333333333333
+    },
+    "datetime": "2024-02-12 20:00:00",
+    "absoluteDifference": 0.7392
+  },
+  {
+    "id": "22125",
+    "h": {
+      "id": "71",
+      "title": "Aston Villa",
+      "short_title": "AVL",
+      "avgLast6Xpts": 1.7616500000000002
+    },
+    "a": {
+      "id": "89",
+      "title": "Manchester United",
+      "short_title": "MUN",
+      "avgLast6Xpts": 1.04375
+    },
+    "datetime": "2024-02-11 16:30:00",
+    "absoluteDifference": 0.7179000000000002
+  },
+  {
+    "id": "22151",
+    "h": {
+      "id": "87",
+      "title": "Liverpool",
+      "short_title": "LIV",
+      "avgLast6Xpts": 2.2584666666666666
+    },
+    "a": {
+      "id": "256",
+      "title": "Luton",
+      "short_title": "LUT",
+      "avgLast6Xpts": 1.5559500000000002
+    },
+    "datetime": "2024-02-24 15:00:00",
+    "absoluteDifference": 0.7025166666666665
+  },
+  {
+    "id": "22147",
+    "h": {
+      "id": "71",
+      "title": "Aston Villa",
+      "short_title": "AVL",
+      "avgLast6Xpts": 1.7616500000000002
+    },
+    "a": {
+      "id": "249",
+      "title": "Nottingham Forest",
+      "short_title": "NOT",
+      "avgLast6Xpts": 1.1069666666666667
+    },
+    "datetime": "2024-02-24 15:00:00",
+    "absoluteDifference": 0.6546833333333335
+  },
+  {
+    "id": "22138",
+    "h": {
+      "id": "228",
+      "title": "Fulham",
+      "short_title": "FLH",
+      "avgLast6Xpts": 1.1220166666666667
+    },
+    "a": {
+      "id": "71",
+      "title": "Aston Villa",
+      "short_title": "AVL",
+      "avgLast6Xpts": 1.7616500000000002
+    },
+    "datetime": "2024-02-17 15:00:00",
+    "absoluteDifference": 0.6396333333333335
+  },
+  {
+    "id": "22141",
+    "h": {
+      "id": "86",
+      "title": "Newcastle United",
+      "short_title": "NEW",
+      "avgLast6Xpts": 1.0723333333333331
+    },
+    "a": {
+      "id": "73",
+      "title": "Bournemouth",
+      "short_title": "BOU",
+      "avgLast6Xpts": 1.6442333333333332
+    },
+    "datetime": "2024-02-17 15:00:00",
+    "absoluteDifference": 0.5719000000000001
+  },
+  {
+    "id": "22140",
+    "h": {
+      "id": "88",
+      "title": "Manchester City",
+      "short_title": "MCI",
+      "avgLast6Xpts": 2.2127833333333338
+    },
+    "a": {
+      "id": "80",
+      "title": "Chelsea",
+      "short_title": "CHE",
+      "avgLast6Xpts": 1.6559333333333333
+    },
+    "datetime": "2024-02-17 17:30:00",
+    "absoluteDifference": 0.5568500000000005
+  },
+  {
+    "id": "22143",
+    "h": {
+      "id": "238",
+      "title": "Sheffield United",
+      "short_title": "SHE",
+      "avgLast6Xpts": 1.1229166666666666
+    },
+    "a": {
+      "id": "220",
+      "title": "Brighton",
+      "short_title": "BRI",
+      "avgLast6Xpts": 1.6728666666666667
+    },
+    "datetime": "2024-02-18 14:00:00",
+    "absoluteDifference": 0.5499500000000002
+  },
+  {
+    "id": "22115",
+    "h": {
+      "id": "73",
+      "title": "Bournemouth",
+      "short_title": "BOU",
+      "avgLast6Xpts": 1.6442333333333332
+    },
+    "a": {
+      "id": "249",
+      "title": "Nottingham Forest",
+      "short_title": "NOT",
+      "avgLast6Xpts": 1.1069666666666667
+    },
+    "datetime": "2024-02-04 14:00:00",
+    "absoluteDifference": 0.5372666666666666
+  },
+  {
+    "id": "22127",
+    "h": {
+      "id": "228",
+      "title": "Fulham",
+      "short_title": "FLH",
+      "avgLast6Xpts": 1.1220166666666667
+    },
+    "a": {
+      "id": "73",
+      "title": "Bournemouth",
+      "short_title": "BOU",
+      "avgLast6Xpts": 1.6442333333333332
+    },
+    "datetime": "2024-02-10 15:00:00",
+    "absoluteDifference": 0.5222166666666666
+  },
+  {
+    "id": "22139",
+    "h": {
+      "id": "256",
+      "title": "Luton",
+      "short_title": "LUT",
+      "avgLast6Xpts": 1.5559500000000002
+    },
+    "a": {
+      "id": "89",
+      "title": "Manchester United",
+      "short_title": "MUN",
+      "avgLast6Xpts": 1.04375
+    },
+    "datetime": "2024-02-18 16:30:00",
+    "absoluteDifference": 0.5122000000000002
+  },
+  {
+    "id": "22129",
+    "h": {
+      "id": "256",
+      "title": "Luton",
+      "short_title": "LUT",
+      "avgLast6Xpts": 1.5559500000000002
+    },
+    "a": {
+      "id": "238",
+      "title": "Sheffield United",
+      "short_title": "SHE",
+      "avgLast6Xpts": 1.1229166666666666
+    },
+    "datetime": "2024-02-10 15:00:00",
+    "absoluteDifference": 0.4330333333333336
+  },
+  {
+    "id": "22137",
+    "h": {
+      "id": "72",
+      "title": "Everton",
+      "short_title": "EVE",
+      "avgLast6Xpts": 1.3399
+    },
+    "a": {
+      "id": "78",
+      "title": "Crystal Palace",
+      "short_title": "CRY",
+      "avgLast6Xpts": 0.9167333333333333
+    },
+    "datetime": "2024-02-19 20:00:00",
+    "absoluteDifference": 0.4231666666666668
+  },
+  {
+    "id": "22132",
+    "h": {
+      "id": "82",
+      "title": "Tottenham",
+      "short_title": "TOT",
+      "avgLast6Xpts": 1.2607833333333334
+    },
+    "a": {
+      "id": "220",
+      "title": "Brighton",
+      "short_title": "BRI",
+      "avgLast6Xpts": 1.6728666666666667
+    },
+    "datetime": "2024-02-10 15:00:00",
+    "absoluteDifference": 0.41208333333333336
+  },
+  {
+    "id": "22149",
+    "h": {
+      "id": "80",
+      "title": "Chelsea",
+      "short_title": "CHE",
+      "avgLast6Xpts": 1.6559333333333333
+    },
+    "a": {
+      "id": "82",
+      "title": "Tottenham",
+      "short_title": "TOT",
+      "avgLast6Xpts": 1.2607833333333334
+    },
+    "datetime": "2024-02-23 20:00:00",
+    "absoluteDifference": 0.3951499999999999
+  },
+  {
+    "id": "22120",
+    "h": {
+      "id": "80",
+      "title": "Chelsea",
+      "short_title": "CHE",
+      "avgLast6Xpts": 1.6559333333333333
+    },
+    "a": {
+      "id": "229",
+      "title": "Wolverhampton Wanderers",
+      "short_title": "WOL",
+      "avgLast6Xpts": 1.312633333333333
+    },
+    "datetime": "2024-02-04 14:00:00",
+    "absoluteDifference": 0.34330000000000016
+  },
+  {
+    "id": "22148",
+    "h": {
+      "id": "220",
+      "title": "Brighton",
+      "short_title": "BRI",
+      "avgLast6Xpts": 1.6728666666666667
+    },
+    "a": {
+      "id": "72",
+      "title": "Everton",
+      "short_title": "EVE",
+      "avgLast6Xpts": 1.3399
+    },
+    "datetime": "2024-02-24 15:00:00",
+    "absoluteDifference": 0.33296666666666663
+  },
+  {
+    "id": "22122",
+    "h": {
+      "id": "89",
+      "title": "Manchester United",
+      "short_title": "MUN",
+      "avgLast6Xpts": 1.04375
+    },
+    "a": {
+      "id": "81",
+      "title": "West Ham",
+      "short_title": "WHU",
+      "avgLast6Xpts": 1.3071000000000002
+    },
+    "datetime": "2024-02-04 14:00:00",
+    "absoluteDifference": 0.2633500000000002
+  },
+  {
+    "id": "22142",
+    "h": {
+      "id": "249",
+      "title": "Nottingham Forest",
+      "short_title": "NOT",
+      "avgLast6Xpts": 1.1069666666666667
+    },
+    "a": {
+      "id": "81",
+      "title": "West Ham",
+      "short_title": "WHU",
+      "avgLast6Xpts": 1.3071000000000002
+    },
+    "datetime": "2024-02-17 15:00:00",
+    "absoluteDifference": 0.2001333333333335
+  },
+  {
+    "id": "22116",
+    "h": {
+      "id": "83",
+      "title": "Arsenal",
+      "short_title": "ARS",
+      "avgLast6Xpts": 2.06175
+    },
+    "a": {
+      "id": "87",
+      "title": "Liverpool",
+      "short_title": "LIV",
+      "avgLast6Xpts": 2.2584666666666666
+    },
+    "datetime": "2024-02-04 16:30:00",
+    "absoluteDifference": 0.19671666666666665
+  },
+  {
+    "id": "22154",
+    "h": {
+      "id": "229",
+      "title": "Wolverhampton Wanderers",
+      "short_title": "WOL",
+      "avgLast6Xpts": 1.312633333333333
+    },
+    "a": {
+      "id": "238",
+      "title": "Sheffield United",
+      "short_title": "SHE",
+      "avgLast6Xpts": 1.1229166666666666
+    },
+    "datetime": "2024-02-25 13:30:00",
+    "absoluteDifference": 0.18971666666666653
+  },
+  {
+    "id": "22134",
+    "h": {
+      "id": "229",
+      "title": "Wolverhampton Wanderers",
+      "short_title": "WOL",
+      "avgLast6Xpts": 1.312633333333333
+    },
+    "a": {
+      "id": "244",
+      "title": "Brentford",
+      "short_title": "BRE",
+      "avgLast6Xpts": 1.1992666666666667
+    },
+    "datetime": "2024-02-10 15:00:00",
+    "absoluteDifference": 0.1133666666666664
+  },
+  {
+    "id": "22152",
+    "h": {
+      "id": "89",
+      "title": "Manchester United",
+      "short_title": "MUN",
+      "avgLast6Xpts": 1.04375
+    },
+    "a": {
+      "id": "228",
+      "title": "Fulham",
+      "short_title": "FLH",
+      "avgLast6Xpts": 1.1220166666666667
+    },
+    "datetime": "2024-02-24 15:00:00",
+    "absoluteDifference": 0.0782666666666667
+  },
+  {
+    "id": "22144",
+    "h": {
+      "id": "82",
+      "title": "Tottenham",
+      "short_title": "TOT",
+      "avgLast6Xpts": 1.2607833333333334
+    },
+    "a": {
+      "id": "229",
+      "title": "Wolverhampton Wanderers",
+      "short_title": "WOL",
+      "avgLast6Xpts": 1.312633333333333
+    },
+    "datetime": "2024-02-17 15:00:00",
+    "absoluteDifference": 0.05184999999999973
+  },
+  {
+    "id": "22150",
+    "h": {
+      "id": "78",
+      "title": "Crystal Palace",
+      "short_title": "CRY",
+      "avgLast6Xpts": 0.9167333333333333
+    },
+    "a": {
+      "id": "92",
+      "title": "Burnley",
+      "short_title": "BUR",
+      "avgLast6Xpts": 0.9633833333333334
+    },
+    "datetime": "2024-02-24 15:00:00",
+    "absoluteDifference": 0.04665000000000008
+  },
+  {
+    "id": "22131",
+    "h": {
+      "id": "249",
+      "title": "Nottingham Forest",
+      "short_title": "NOT",
+      "avgLast6Xpts": 1.1069666666666667
+    },
+    "a": {
+      "id": "86",
+      "title": "Newcastle United",
+      "short_title": "NEW",
+      "avgLast6Xpts": 1.0723333333333331
+    },
+    "datetime": "2024-02-10 17:30:00",
+    "absoluteDifference": 0.034633333333333516
+  }
+]
