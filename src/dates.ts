@@ -91,7 +91,7 @@ const getAPI = async () => {
     }
 
     Object.keys(resultByTeam).forEach((key) => {
-      resultByTeam[key] = resultByTeam[key]!.slice(0, 3);
+      resultByTeam[key] = resultByTeam[key]!.slice(0, 2);
     });
     console.log(resultByTeam);
 

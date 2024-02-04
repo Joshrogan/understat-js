@@ -27,20 +27,6 @@
         "short_title": "BOU"
       },
       "datetime": "2024-02-10 15:00:00"
-    },
-    {
-      "id": "22141",
-      "h": {
-        "id": "86",
-        "title": "Newcastle United",
-        "short_title": "NEW"
-      },
-      "a": {
-        "id": "73",
-        "title": "Bournemouth",
-        "short_title": "BOU"
-      },
-      "datetime": "2024-02-17 15:00:00"
     }
   ],
   "Nottingham Forest": [
@@ -71,20 +57,6 @@
         "short_title": "NEW"
       },
       "datetime": "2024-02-10 17:30:00"
-    },
-    {
-      "id": "22142",
-      "h": {
-        "id": "249",
-        "title": "Nottingham Forest",
-        "short_title": "NOT"
-      },
-      "a": {
-        "id": "81",
-        "title": "West Ham",
-        "short_title": "WHU"
-      },
-      "datetime": "2024-02-17 15:00:00"
     }
   ],
   "Chelsea": [
@@ -115,20 +87,6 @@
         "short_title": "CHE"
       },
       "datetime": "2024-02-12 20:00:00"
-    },
-    {
-      "id": "22140",
-      "h": {
-        "id": "88",
-        "title": "Manchester City",
-        "short_title": "MCI"
-      },
-      "a": {
-        "id": "80",
-        "title": "Chelsea",
-        "short_title": "CHE"
-      },
-      "datetime": "2024-02-17 17:30:00"
     }
   ],
   "Wolverhampton Wanderers": [
@@ -159,20 +117,6 @@
         "short_title": "BRE"
       },
       "datetime": "2024-02-10 15:00:00"
-    },
-    {
-      "id": "22144",
-      "h": {
-        "id": "82",
-        "title": "Tottenham",
-        "short_title": "TOT"
-      },
-      "a": {
-        "id": "229",
-        "title": "Wolverhampton Wanderers",
-        "short_title": "WOL"
-      },
-      "datetime": "2024-02-17 15:00:00"
     }
   ],
   "Manchester United": [
@@ -203,20 +147,6 @@
         "short_title": "MUN"
       },
       "datetime": "2024-02-11 16:30:00"
-    },
-    {
-      "id": "22139",
-      "h": {
-        "id": "256",
-        "title": "Luton",
-        "short_title": "LUT"
-      },
-      "a": {
-        "id": "89",
-        "title": "Manchester United",
-        "short_title": "MUN"
-      },
-      "datetime": "2024-02-18 16:30:00"
     }
   ],
   "West Ham": [
@@ -247,20 +177,6 @@
         "short_title": "ARS"
       },
       "datetime": "2024-02-11 14:00:00"
-    },
-    {
-      "id": "22142",
-      "h": {
-        "id": "249",
-        "title": "Nottingham Forest",
-        "short_title": "NOT"
-      },
-      "a": {
-        "id": "81",
-        "title": "West Ham",
-        "short_title": "WHU"
-      },
-      "datetime": "2024-02-17 15:00:00"
     }
   ],
   "Arsenal": [
@@ -291,20 +207,6 @@
         "short_title": "ARS"
       },
       "datetime": "2024-02-11 14:00:00"
-    },
-    {
-      "id": "22136",
-      "h": {
-        "id": "92",
-        "title": "Burnley",
-        "short_title": "BUR"
-      },
-      "a": {
-        "id": "83",
-        "title": "Arsenal",
-        "short_title": "ARS"
-      },
-      "datetime": "2024-02-17 15:00:00"
     }
   ],
   "Liverpool": [
@@ -335,20 +237,6 @@
         "short_title": "BUR"
       },
       "datetime": "2024-02-10 15:00:00"
-    },
-    {
-      "id": "22135",
-      "h": {
-        "id": "244",
-        "title": "Brentford",
-        "short_title": "BRE"
-      },
-      "a": {
-        "id": "87",
-        "title": "Liverpool",
-        "short_title": "LIV"
-      },
-      "datetime": "2024-02-17 12:30:00"
     }
   ],
   "Brentford": [
@@ -379,20 +267,6 @@
         "short_title": "BRE"
       },
       "datetime": "2024-02-10 15:00:00"
-    },
-    {
-      "id": "22135",
-      "h": {
-        "id": "244",
-        "title": "Brentford",
-        "short_title": "BRE"
-      },
-      "a": {
-        "id": "87",
-        "title": "Liverpool",
-        "short_title": "LIV"
-      },
-      "datetime": "2024-02-17 12:30:00"
     }
   ],
   "Manchester City": [
@@ -423,20 +297,6 @@
         "short_title": "EVE"
       },
       "datetime": "2024-02-10 12:30:00"
-    },
-    {
-      "id": "22140",
-      "h": {
-        "id": "88",
-        "title": "Manchester City",
-        "short_title": "MCI"
-      },
-      "a": {
-        "id": "80",
-        "title": "Chelsea",
-        "short_title": "CHE"
-      },
-      "datetime": "2024-02-17 17:30:00"
     }
   ],
   "Everton": [
@@ -467,20 +327,6 @@
         "short_title": "CRY"
       },
       "datetime": "2024-02-19 20:00:00"
-    },
-    {
-      "id": "22148",
-      "h": {
-        "id": "220",
-        "title": "Brighton",
-        "short_title": "BRI"
-      },
-      "a": {
-        "id": "72",
-        "title": "Everton",
-        "short_title": "EVE"
-      },
-      "datetime": "2024-02-24 15:00:00"
     }
   ],
   "Fulham": [
@@ -511,20 +357,6 @@
         "short_title": "AVL"
       },
       "datetime": "2024-02-17 15:00:00"
-    },
-    {
-      "id": "22152",
-      "h": {
-        "id": "89",
-        "title": "Manchester United",
-        "short_title": "MUN"
-      },
-      "a": {
-        "id": "228",
-        "title": "Fulham",
-        "short_title": "FLH"
-      },
-      "datetime": "2024-02-24 15:00:00"
     }
   ],
   "Burnley": [
@@ -555,20 +387,6 @@
         "short_title": "ARS"
       },
       "datetime": "2024-02-17 15:00:00"
-    },
-    {
-      "id": "22150",
-      "h": {
-        "id": "78",
-        "title": "Crystal Palace",
-        "short_title": "CRY"
-      },
-      "a": {
-        "id": "92",
-        "title": "Burnley",
-        "short_title": "BUR"
-      },
-      "datetime": "2024-02-24 15:00:00"
     }
   ],
   "Luton": [
@@ -599,20 +417,6 @@
         "short_title": "MUN"
       },
       "datetime": "2024-02-18 16:30:00"
-    },
-    {
-      "id": "22151",
-      "h": {
-        "id": "87",
-        "title": "Liverpool",
-        "short_title": "LIV"
-      },
-      "a": {
-        "id": "256",
-        "title": "Luton",
-        "short_title": "LUT"
-      },
-      "datetime": "2024-02-24 15:00:00"
     }
   ],
   "Sheffield United": [
@@ -643,20 +447,6 @@
         "short_title": "BRI"
       },
       "datetime": "2024-02-18 14:00:00"
-    },
-    {
-      "id": "22154",
-      "h": {
-        "id": "229",
-        "title": "Wolverhampton Wanderers",
-        "short_title": "WOL"
-      },
-      "a": {
-        "id": "238",
-        "title": "Sheffield United",
-        "short_title": "SHE"
-      },
-      "datetime": "2024-02-25 13:30:00"
     }
   ],
   "Tottenham": [
@@ -687,20 +477,6 @@
         "short_title": "WOL"
       },
       "datetime": "2024-02-17 15:00:00"
-    },
-    {
-      "id": "22149",
-      "h": {
-        "id": "80",
-        "title": "Chelsea",
-        "short_title": "CHE"
-      },
-      "a": {
-        "id": "82",
-        "title": "Tottenham",
-        "short_title": "TOT"
-      },
-      "datetime": "2024-02-23 20:00:00"
     }
   ],
   "Brighton": [
@@ -731,20 +507,6 @@
         "short_title": "BRI"
       },
       "datetime": "2024-02-18 14:00:00"
-    },
-    {
-      "id": "22148",
-      "h": {
-        "id": "220",
-        "title": "Brighton",
-        "short_title": "BRI"
-      },
-      "a": {
-        "id": "72",
-        "title": "Everton",
-        "short_title": "EVE"
-      },
-      "datetime": "2024-02-24 15:00:00"
     }
   ],
   "Newcastle United": [
@@ -775,20 +537,6 @@
         "short_title": "BOU"
       },
       "datetime": "2024-02-17 15:00:00"
-    },
-    {
-      "id": "22146",
-      "h": {
-        "id": "83",
-        "title": "Arsenal",
-        "short_title": "ARS"
-      },
-      "a": {
-        "id": "86",
-        "title": "Newcastle United",
-        "short_title": "NEW"
-      },
-      "datetime": "2024-02-24 20:00:00"
     }
   ],
   "Aston Villa": [
@@ -819,20 +567,6 @@
         "short_title": "AVL"
       },
       "datetime": "2024-02-17 15:00:00"
-    },
-    {
-      "id": "22147",
-      "h": {
-        "id": "71",
-        "title": "Aston Villa",
-        "short_title": "AVL"
-      },
-      "a": {
-        "id": "249",
-        "title": "Nottingham Forest",
-        "short_title": "NOT"
-      },
-      "datetime": "2024-02-24 15:00:00"
     }
   ],
   "Crystal Palace": [
@@ -863,20 +597,6 @@
         "short_title": "CRY"
       },
       "datetime": "2024-02-19 20:00:00"
-    },
-    {
-      "id": "22150",
-      "h": {
-        "id": "78",
-        "title": "Crystal Palace",
-        "short_title": "CRY"
-      },
-      "a": {
-        "id": "92",
-        "title": "Burnley",
-        "short_title": "BUR"
-      },
-      "datetime": "2024-02-24 15:00:00"
     }
   ]
 }

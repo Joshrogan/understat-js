@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chart Example</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  </head>
+  <body>
+    <canvas id="myChart" width="400" height="200"></canvas>
+
+    <script type="module">
+      import matches from "../results/combine.json" assert { type: "json" };
+
+      // Extract labels (titles) and data points (avgLast6Xpts)
+      const labels = matches.map(
+        (match) => `${match.h.title} vs ${match.a.title}`
+      );
+      const absoluteDifferences = matches.map(
+        (match) => match.absoluteDifference
+      );
+
+      // Create a bar chart using Chart.js
+      const ctx = document.getElementById("myChart").getContext("2d");
+      const myChart = new Chart(ctx, {
+        type: "bar",
+        data: {
+          labels: labels,
+          datasets: [
+            {
+              label: "Absolute Difference",
+              data: absoluteDifferences,
+              backgroundColor: "rgba(75, 192, 192, 0.2)", // Bar color
+              borderColor: "rgba(75, 192, 192, 1)", // Border color
+              borderWidth: 1,
+            },
+          ],
+        },
+        options: {
+          scales: {
+            y: {
+              beginAtZero: true,
+            },
+          },
+        },
+      });
+    </script>
+  </body>
+</html>
