@@ -31,3 +31,7 @@ const matches = data.filter((item) => {
 only showing the most one sided games.
 
 change the amount of games per team for past points or future fixtures then combine again.
+
+![example](<Screenshot 2024-02-04 at 14.47.48.png>)
+
+also console logs the results in of the graph too.
